@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "json-canvas-to-mermaid": "^2.0.1"
+  }
+}
